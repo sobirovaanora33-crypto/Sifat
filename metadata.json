@@ -1,0 +1,6 @@
+{
+  "name": "Sifatoy - Sifat So'z Turkumi Interaktiv O'quv Portali",
+  "description": "7-sinf o'quvchilari uchun ona tili fanidan 'Sifat so'z turkumi' mavzusini tushuntiruvchi, interaktiv o'yinlar, keyslar, testlar va sertifikat beruvchi ta'limiy platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
